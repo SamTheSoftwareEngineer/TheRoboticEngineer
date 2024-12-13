@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam.
-- 👀 I’m interested in back-end or full stack development. I also have some passion projects I want to work on to help people struggling with mental health issues and in healthcare!
+- 👀 I’m interested in back-end or full stack development.
 - 🌱 I'm currently working on improving my problem solving skills with leetcode and hackerrank!
 - 💞️ I'm also actively looking for my first tech role!
 - 📫 You can reach me via email or Linkedin. 
